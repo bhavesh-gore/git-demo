@@ -14,4 +14,25 @@
   586  git status
   587  git restore
   588  git restore file.py
+<<<<<<< HEAD
+=======
+  624  mkdir git-demo
+  625  cd git-demo/
+  626  git init
+  627  git status
+  628  vim file.py
+  629  git status
+  630  git add file.py
+  631  git status
+  632  git commit -m "first commit v1"
+  633  cd git-demo/
+  634  git status
+  635  git push
+  636  git push origin master
+  637  git remote set-url origin  https://github.com/bhavesh-gore/git-demo.git
+  638  git status
+  639  git add command.txt
+  640  git status
+  641  git push origin master
+>>>>>>> b502acf (v2)
 
