@@ -35,4 +35,31 @@
   640  git status
   641  git push origin master
 >>>>>>> b502acf (v2)
+  687  git branch
+  688  git rebase -i 5852e66
+  689  git log --oneline
+  690  git status
+  691  git add .
+  692  git status
+  693  git commit -m "v2"
+  694  git status
+  695  git push origin master
+  696  ll
+  697  rm -rf command.txt
+  698  git restore command.txt
+  699  ll
+  700  vim command.txt
+  701  git status
+  702  git rebase --continue
+  703  git status
+  704  git add
+  705  git add .
+  706  git status
+  707  git commit origin master
+  708  git commit -m "v2"
+  709  git push
+  710  git push origin master
+  711  git status
+  712  git branch
+
 
