@@ -1,0 +1,17 @@
+ git --version
+  574  git -version
+  575  sudo dnf install git
+  576  cd git-demo/
+  577   git config --global user.email "bhaveshgore653@gmail.com"
+  578  git config --global user.name "bhavesh_gore"
+  579  git status
+  580  git commit -m "first commit v1"
+  581  ll
+  582  git status
+  583  rm -rf .
+  584  rm -rf *
+  585  ll
+  586  git status
+  587  git restore
+  588  git restore file.py
+
